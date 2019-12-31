@@ -1,0 +1,6 @@
+module Pods_calonTA4 {
+  umbrella header "Pods-calonTA4-umbrella.h"
+
+  export *
+  module * { export * }
+}
